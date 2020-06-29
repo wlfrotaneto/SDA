@@ -1,0 +1,9 @@
+main: wlfrotaneto.sda.Main
+name: SDA
+version: 1.0
+author: Walter Neto
+
+commands:
+  Hello:
+  Prender:
+    description: Permite prender jogadores em uma sala especifica do mapa.

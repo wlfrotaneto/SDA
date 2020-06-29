@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="SDA:jar">
+    <output-path>$USER_HOME$/Documentos/Pessoal/Minecraft/Spigot 1.16.1 Server/plugins</output-path>
+    <root id="archive" name="SDA.jar">
+      <element id="module-output" name="SDA" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/spigot-1.16.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
